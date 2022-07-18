@@ -1,0 +1,23 @@
+Program BayesR
+Run started at 2022-03-30 10:57:34
+Prefix for input files           : plink_full
+Prefix for output files          : bayesR_sabinene_adj_phen_300000it_100000burnin_10thin_4dist_permute_chain_2
+Phenotype column                 =        1
+No. of loci                      =    36262
+No. of individuals               =     1499
+No. of training individuals      =     1499
+Prior Vara                       =   0.010000 -2.000000
+No. of mixtures                  =        4
+Variance of dist                 =    0.00000   0.00010   0.00100   0.01000
+Dirichlet prior                  =    1.00000   1.00000   1.00000   1.00000
+Prior Vare                       =   0.010000 -2.000000
+No. of cycles                    =   300000
+Burnin                           =   100000
+Thinning rate                    =       10
+Seed                             =        0
+SNP output                       =  F
+ new seeds generated from clock
+Plink magic number 1 - ok
+Plink magic number 2 - ok
+SNP-major mode for PLINK .bed file
+Run ended at 2022-03-30 18:50:48
